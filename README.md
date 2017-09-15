@@ -10,7 +10,7 @@ Jogo em desenvolvimento para a nota final do 1º período do curso.
 /*
 Jogo da Forca 1.0
 Criado em 03/09/2017
-
+jefferson
 descrição: Jogo da Forca onde o objetivo é adivinhar qual a palavra escondida atrás das barras.
 O jogador deve informar uma letra onde na qual acha que possa conter na palavra secreta.
 */
